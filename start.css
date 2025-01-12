@@ -8,19 +8,15 @@
     border: 0px;
    border-radius: 40px;
    padding: 10px 20px;
-   
-   
-}
-
-.pencet{
     text-decoration: none;
     color: white;
    font-family: "Bona Nova SC", serif;
   font-weight: 400;
   font-style: normal;
     font-size: 20px;
-
+   
 }
+
 
 button:hover{
     background: #1D6F87;
